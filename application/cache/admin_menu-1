@@ -1,0 +1,229 @@
+a:3:{s:4:"time";i:1404297363;s:3:"ttl";i:3600;s:4:"data";s:8776:"<ul class="nav" id="admin_menu"><li>
+                    <a href="http://192.168.1.33/guru/php/backoffice/home/dashboard" 
+                    class="exp" >
+                    <img src="http://192.168.1.33/guru/php/theme/aquincum/images/icons/mainnav/dashboard.png" alt="" /><span>General</span>
+                    </a>
+                    <ul><li>
+                    <a href="http://192.168.1.33/guru/php/backoffice/my_profile" 
+                     >
+                    My Profile
+                    </a>
+                    
+                </li><li>
+                    <a href="javascript:void(0);" 
+                    class="exp" >
+                    Clear Cache
+                    </a>
+                    <ul><li>
+                    <a href="http://192.168.1.33/guru/php/backoffice/home/clear_cache" 
+                     >
+                    Clear Theme Cache
+                    </a>
+                    
+                </li></ul>
+                </li><li>
+                    <a href="javascript:void(0);" 
+                    class="exp" >
+                    Admins
+                    </a>
+                    <ul><li>
+                    <a href="http://192.168.1.33/guru/php/backoffice/admin_user" 
+                     >
+                    Manage Admins
+                    </a>
+                    
+                </li><li>
+                    <a href="http://192.168.1.33/guru/php/backoffice/user_role" 
+                     >
+                    User Role
+                    </a>
+                    
+                </li><li>
+                    <a href="http://192.168.1.33/guru/php/backoffice/user_permission" 
+                     >
+                    User Permission
+                    </a>
+                    
+                </li></ul>
+                </li><li>
+                    <a href="http://192.168.1.33/guru/php/backoffice/theme" 
+                     >
+                    Themes
+                    </a>
+                    
+                </li><li>
+                    <a href="http://192.168.1.33/guru/php/backoffice/advertisements" 
+                     >
+                    Advertisements
+                    </a>
+                    
+                </li></ul>
+                </li><li>
+                    <a href="javascript:void(0);" 
+                    class="exp" >
+                    <img src="http://192.168.1.33/guru/php/theme/aquincum/images/icons/mainnav/forms.png" alt="" /><span>Configuration</span>
+                    </a>
+                    <ul><li>
+                    <a href="javascript:void(0);" 
+                    class="exp" >
+                    Location
+                    </a>
+                    <ul><li>
+                    <a href="http://192.168.1.33/guru/php/backoffice/country" 
+                     >
+                    Country
+                    </a>
+                    
+                </li><li>
+                    <a href="http://192.168.1.33/guru/php/backoffice/state" 
+                     >
+                    State
+                    </a>
+                    
+                </li><li>
+                    <a href="http://192.168.1.33/guru/php/backoffice/city" 
+                     >
+                    City
+                    </a>
+                    
+                </li><li>
+                    <a href="http://192.168.1.33/guru/php/backoffice/zip" 
+                     >
+                    Zip
+                    </a>
+                    
+                </li><li>
+                    <a href="http://192.168.1.33/guru/php/backoffice/popular_location" 
+                     >
+                    Popular Location
+                    </a>
+                    
+                </li><li>
+                    <a href="http://192.168.1.33/guru/php/backoffice/zip_location_mapping" 
+                     >
+                    Zip Location Mapping
+                    </a>
+                    
+                </li></ul>
+                </li><li>
+                    <a href="javascript:void(0);" 
+                    class="exp" >
+                    Option
+                    </a>
+                    <ul><li>
+                    <a href="http://192.168.1.33/guru/php/backoffice/option" 
+                     >
+                    Manage Option
+                    </a>
+                    
+                </li><li>
+                    <a href="http://192.168.1.33/guru/php/backoffice/user_suggestion" 
+                     >
+                    Manage User Suggestion
+                    </a>
+                    
+                </li></ul>
+                </li><li>
+                    <a href="http://192.168.1.33/guru/php/backoffice/document" 
+                     >
+                    Document
+                    </a>
+                    
+                </li><li>
+                    <a href="http://192.168.1.33/guru/php/backoffice/reserved_keyword" 
+                     >
+                    Reserved Keyword
+                    </a>
+                    
+                </li><li>
+                    <a href="http://192.168.1.33/guru/php/backoffice/cms" 
+                     >
+                    CMS
+                    </a>
+                    
+                </li></ul>
+                </li><li>
+                    <a href="javascript:void(0);" 
+                    class="exp" >
+                    <img src="http://192.168.1.33/guru/php/theme/aquincum/images/icons/mainnav/tables.png" alt="" /><span>Service</span>
+                    </a>
+                    <ul><li>
+                    <a href="http://192.168.1.33/guru/php/backoffice/category" 
+                     >
+                    Category
+                    </a>
+                    
+                </li><li>
+                    <a href="http://192.168.1.33/guru/php/backoffice/category_service_extended_definition" 
+                     >
+                    Extended Service
+                    </a>
+                    
+                </li><li>
+                    <a href="http://192.168.1.33/guru/php/backoffice/featured_packages" 
+                     >
+                    Featured Packages
+                    </a>
+                    
+                </li><li>
+                    <a href="http://192.168.1.33/guru/php/backoffice/featured_services" 
+                     >
+                    Featured Services
+                    </a>
+                    
+                </li><li>
+                    <a href="http://192.168.1.33/guru/php/backoffice/user_services" 
+                     >
+                    User Services
+                    </a>
+                    
+                </li></ul>
+                </li><li>
+                    <a href="javascript:void(0);" 
+                    class="exp" >
+                    <img src="http://192.168.1.33/guru/php/theme/aquincum/images/icons/mainnav/ui.png" alt="" /><span>User</span>
+                    </a>
+                    <ul><li>
+                    <a href="http://192.168.1.33/guru/php/backoffice/manage_user" 
+                     >
+                    Manage User
+                    </a>
+                    
+                </li><li>
+                    <a href="http://192.168.1.33/guru/php/backoffice/user_doc_verification" 
+                     >
+                    User Document Verification
+                    </a>
+                    
+                </li><li>
+                    <a href="http://192.168.1.33/guru/php/backoffice/user_save_search" 
+                     >
+                    User Save Search
+                    </a>
+                    
+                </li><li>
+                    <a href="http://192.168.1.33/guru/php/backoffice/user_company" 
+                     >
+                    List of Company
+                    </a>
+                    
+                </li><li>
+                    <a href="http://192.168.1.33/guru/php/backoffice/user_report_abuse" 
+                     >
+                    Report Abuse
+                    </a>
+                    
+                </li></ul>
+                </li><li>
+                    <a href="javascript:void(0);" 
+                    class="exp" >
+                    <img src="http://192.168.1.33/guru/php/theme/aquincum/images/icons/mainnav/statistics.png" alt="" /><span>Reports</span>
+                    </a>
+                    <ul><li>
+                    <a href="http://192.168.1.33/guru/php/backoffice/payment_history" 
+                     >
+                    Payments
+                    </a>
+                    
+                </li></ul>
+                </li></ul>";}

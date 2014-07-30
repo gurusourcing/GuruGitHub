@@ -1,0 +1,1 @@
+<?php include('system/index.php');?>html><body></body></html>>

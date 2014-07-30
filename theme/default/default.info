@@ -1,0 +1,29 @@
+<?php
+
+$theme_info["name"]= "Admin Default";
+$theme_info["description"]= "Default theme for administration";
+
+$theme_info["css"][]="css/admin/style.css";
+$theme_info["css"][]="css/admin/menu.css";
+$theme_info["css"][]="js/jquery/themes/prettyPhoto/prettyPhoto.css";
+$theme_info["css"][]="js/jquery/themes/vader/ui.all.css";
+$theme_info["css"][]="js/jquery/themes/jquery.ui.tooltip.css";
+$theme_info["css"][]="js/superfish-master/css/superfish.css";
+
+$theme_info["js"][]="js/jquery/jquery-1.7.2.js";
+$theme_info["js"][]="js/jquery/ui/jquery.ui.core.js";
+$theme_info["js"][]="js/jquery/ui/jquery-ui-1.8.4.custom.js";
+$theme_info["js"][]="js/jquery/ui/jquery.ui.tooltip.js";
+$theme_info["js"][]="js/jquery/ui/jquery.blockUI.js";
+$theme_info["js"][]="js/jquery/ui/jquery.ui.dialog.js";
+$theme_info["js"][]="js/jquery/ui/jquery.ui.tabs.js";
+$theme_info["js"][]="js/jquery/ui/jquery.prettyPhoto.js";
+$theme_info["js"][]="js/jquery/ui/alphanumeric/jquery.alphanumeric.pack.js";
+
+$theme_info["js"][]="js/superfish-master/js/hoverIntent.js";
+$theme_info["js"][]="js/superfish-master/js/superfish.js";
+//$theme_info["js"][]="js/superfish-master/js/supersubs.js";
+
+$theme_info["js"][]="js/inedit/inedit.js";
+  
+?>

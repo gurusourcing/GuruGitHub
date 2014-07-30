@@ -1,0 +1,23 @@
+RewriteEngine on
+RewriteBase /guru/php/
+#For Server 
+#RewriteBase /guru/
+
+
+RewriteRule ^(en|es|pt)$ $2 [NC,L] 
+RewriteRule ^(en|es|pt)(/)(.*)$ $3 [NC,L] 
+
+
+#RewriteCond $1 !(^index\.php|gif$|jpg$|jpeg$|png$|bmp$|js$|php$|htm$|html$|css$|ttf$|txt$|pdf$|swf$|flv$|robots\.txt$)
+#RewriteRule ^(?!FCKeditor)(.*?)(\.html|\/)?$ index.php/$1 [NC,L] 
+
+#RewriteCond $1 !(^index)
+#RewriteRule ^(?!tinyfck)(.*)(\.html|\.htm|\.php)$ index.php/$1 [NC,L] 
+
+RewriteCond $1 !(^index\.php|gif$|jpg$|JPG$|jpeg$|png$|bmp$|js$|php$|htm$|html$|css$|ttf$|txt$|pdf$|rtf$|swf$|flv$|doc$|eot$|woff$|ttf$|svg$|chat$|robots\.txt$)
+#RewriteRule ^(?!tinyfck)(.*)$ index.php/$1 [NC,L] 
+RewriteRule ^(?!tiny_mce|user_guide|theme)(.*)$ index.php/$1 [NC,L] 
+#RewriteRule ^(.*)$ - [NC,L] 
+
+
+#SetOutputFilter DEFLATE
